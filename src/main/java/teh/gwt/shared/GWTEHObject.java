@@ -6,7 +6,7 @@ import teh.annotations.TEH;
 import teh.fields.TEHFields;
 import teh.utils.TEHObject;
 
-import com.google.gwt.core.client.GWT;
+import com.google.gwt.core.shared.GWT;
 
 /**
  * gwt-teh Object <br>
