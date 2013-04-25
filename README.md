@@ -11,14 +11,14 @@ gwt-teh is the gwt-compatible version of [TEH](https://github.com/wokier/TEH).
 
  - Define this dependency
 
-<code>
-&lt;dependency>
-			&lt;groupId>com.github.wokier&lt;/groupId>
-			&lt;artifactId>gwt-teh&lt;/artifactId>
-			&lt;version>0.7&lt;/version>
-			&lt;classifier>teh&lt;/classifier>
-&lt;/dependency>
-</code>
+```
+<dependency>
+			<groupId>com.github.wokier</groupId>
+			<artifactId>gwt-teh</artifactId>
+			<version>0.7</version>
+			<classifier>teh</classifier>
+</dependency>
+```
 
  - Add an inherits 'teh.TEH' in your module .gwt.xml
 
